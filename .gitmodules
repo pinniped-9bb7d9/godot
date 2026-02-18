@@ -1,0 +1,3 @@
+[submodule "boids-3d"]
+	path = boids-3d
+	url = https://github.com/pinniped-9bb7d9/godot-boids-3d-module
